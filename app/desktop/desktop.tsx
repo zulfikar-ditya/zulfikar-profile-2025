@@ -170,7 +170,7 @@ export default function desktop() {
 											</p>
 											<p>
 												I integrated third-party APIs (e.g., Microsoft,
-												WhatsApp, Google) using Laravel's Http and Guzzle
+												WhatsApp, Google) using Laravel&apos;s Http and Guzzle
 												libraries, implementing error handling and retry
 												mechanisms for resilience. Throughout, I adhered to
 												coding standards, conducted code reviews and unit tests,
@@ -244,7 +244,7 @@ export default function desktop() {
 												optimized data storage and retrieval to support growing
 												web applications. My experience includes writing complex
 												SQL queries for seamless data manipulation, empowering
-												robust functionality. By leveraging Laravel's MVC
+												robust functionality. By leveraging Laravel&apos;s MVC
 												architecture, I constructed responsive, secure, and
 												user-friendly web apps, implementing efficient data
 												interactions with Eloquent ORM while prioritizing data
