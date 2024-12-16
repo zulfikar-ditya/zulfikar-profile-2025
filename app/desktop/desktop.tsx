@@ -142,7 +142,7 @@ export default function desktop() {
 								My focus is on delivering high-quality, well-tested code while
 								embracing new technologies to drive innovation. With excellent
 								problem-solving and communication skills, I bridge technical and
-								non-technical gaps to deliver seamless web solutions. I'm eager
+								non-technical gaps to deliver seamless web solutions. I&apos;m eager
 								to contribute my skills to a dynamic team and help create
 								exceptional web experiences.
 							</p>
@@ -166,7 +166,7 @@ export default function desktop() {
 												experience includes securing APIs with robust
 												authentication and authorization mechanisms, optimizing
 												database performance through efficient schemas, and
-												utilizing SQL and ORM techniques.{" "}
+												utilizing SQL and ORM techniques.
 											</p>
 											<p>
 												I integrated third-party APIs (e.g., Microsoft,
@@ -275,14 +275,14 @@ export default function desktop() {
 												As a Backend Developer at PT. Seje Digital Utama, I
 												specialize in crafting secure and optimized APIs for
 												seamless data exchange between web applications and
-												external services, such as Hue Huy & Aku Hadir APIs.
-												Utilizing Laravel's HTTP clients and data mapping, I
+												external services, such as Hue Huy &amp; Aku Hadir APIs.
+												Utilizing Laravel&apos;s HTTP clients and data mapping, I
 												ensure efficient interaction and data integrity across
-												integrations. I am proficient in leveraging Laravel's
+												integrations. I am proficient in leveraging Laravel&apos;s
 												powerful features for third-party API integrations,
 												implementing robust error handling, and enforcing
 												security measures to prevent failures and breaches. My
-												focus on writing clean, maintainable code with Laravel's
+												focus on writing clean, maintainable code with Laravel&apos;s
 												Eloquent ORM ensures efficient CRUD operations, while
 												prioritizing data validation and sanitization to protect
 												against vulnerabilities.
