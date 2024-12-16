@@ -5,6 +5,7 @@ import {
 	PhotoIcon,
 	UserCircleIcon,
 } from "@heroicons/react/20/solid";
+import Image from "next/image";
 import React from "react";
 
 export default function desktop() {
@@ -14,9 +15,9 @@ export default function desktop() {
 				<aside className="w-full md:w-2/4 lg:w-4/12 relative md:sticky top-4 h-fit mb-4 lg:mb-0">
 					<div className="bg-backgroundLight dark:bg-backgroundDarken rounded-lg shadow-lg p-4">
 						<div className="flex items-center gap-2 mb-4 flex-col">
-							<img
+							<Image
 								src="images/profile.jpg"
-								alt="Profile"
+								alt="Zulfikar Ditya"
 								className="w-32 h-32 rounded-full object-cover border-4 border-primary transition-transform hover:scale-110"
 							/>
 							<div className="text-center">
