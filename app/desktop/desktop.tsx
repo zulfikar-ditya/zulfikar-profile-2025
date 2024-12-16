@@ -153,9 +153,9 @@ export default function desktop() {
 							<div className="flex items-center gap-4 mb-4">
 								<div className="flex items-center flex-col gap-2 w-full">
 									<div className="mt-4 w-full">
-										<h3>SUPER FUTURE KOMPANY</h3>
+										<h3>Backend Developer</h3>
 										<h5 className="text-secondaryTextLight dark:text-secondaryTextDark">
-											Backend Developer (Sept 2024 - Present)
+											SUPER FUTURE KOMPANY (Sept 2024 - Present)
 										</h5>
 										<div className="text-secondaryText">
 											<p>
@@ -181,9 +181,9 @@ export default function desktop() {
 									</div>
 
 									<div className="mt-4 w-full">
-										<h3>Self Employee</h3>
+										<h3>Web Developer</h3>
 										<h5 className="text-secondaryTextLight dark:text-secondaryTextDark">
-											Web Developer (May 2024 - Present)
+											Self Employee (May 2024 - Present)
 										</h5>
 										<div className="text-secondaryText">
 											<p>
@@ -209,9 +209,9 @@ export default function desktop() {
 									</div>
 
 									<div className="mt-4 w-full">
-										<h3>PT Anomali Trans Teknologi</h3>
+										<h3>Mendix Developer</h3>
 										<h5 className="text-secondaryTextLight dark:text-secondaryTextDark">
-											Mendix Developer (Sept 2024 - Sept 2024)
+											PT Anomali Trans Teknologi (Sept 2024 - Sept 2024)
 										</h5>
 										<div className="text-secondaryText">
 											<p>
@@ -231,9 +231,9 @@ export default function desktop() {
 									</div>
 
 									<div className="mt-4 w-full">
-										<h3>PT Anomali Trans Teknologi</h3>
+										<h3>Application Developer Officer</h3>
 										<h5 className="text-secondaryTextLight dark:text-secondaryTextDark">
-											Application Developer Officer (June 2023 - August 2024)
+											PT Anomali Trans Teknologi (June 2023 - August 2024)
 										</h5>
 										<div className="text-secondaryText">
 											<p>
@@ -266,9 +266,9 @@ export default function desktop() {
 									</div>
 
 									<div className="mt-4 w-full">
-										<h3>PT SEJE DIGITAL UTAMA</h3>
+										<h3>Backend Developer</h3>
 										<h5 className="text-secondaryTextLight dark:text-secondaryTextDark">
-											Backend Developer (Oct 2023 - May 2024)
+											PT SEJE DIGITAL UTAMA (Oct 2023 - May 2024)
 										</h5>
 										<div className="text-secondaryText">
 											<p>
@@ -302,9 +302,9 @@ export default function desktop() {
 									</div>
 
 									<div className="mt-4 w-full">
-										<h3>INTIVE STUDIO</h3>
+										<h3>Freelance Laravel Developer</h3>
 										<h5 className="text-secondaryTextLight dark:text-secondaryTextDark">
-											Freelance Laravel Developer (June 2023 - March 2024)
+											INTIVE STUDIO (June 2023 - March 2024)
 										</h5>
 										<div className="text-secondaryText">
 											<p>
@@ -327,9 +327,9 @@ export default function desktop() {
 									</div>
 
 									<div className="mt-4 w-full">
-										<h3>INTIVE STUDIO</h3>
+										<h3>Web App Developer</h3>
 										<h5 className="text-secondaryTextLight dark:text-secondaryTextDark">
-											Web App Developer (July 2022 - June 2023)
+											INTIVE STUDIO (July 2022 - June 2023)
 										</h5>
 										<div className="text-secondaryText">
 											<p>
@@ -368,9 +368,9 @@ export default function desktop() {
 									</div>
 
 									<div className="mt-4 w-full">
-										<h3>SEJE DIGITAL</h3>
+										<h3>Backend Developer</h3>
 										<h5 className="text-secondaryTextLight dark:text-secondaryTextDark">
-											Backend Developer (May 2022 - August 2022)
+											SEJE DIGITAL (May 2022 - August 2022)
 										</h5>
 										<div className="text-secondaryText">
 											<p>
@@ -403,9 +403,9 @@ export default function desktop() {
 									</div>
 
 									<div className="mt-4 w-full">
-										<h3>PT. Promedia Citra Informatindo</h3>
+										<h3>Software Engineer Internship</h3>
 										<h5 className="text-secondaryTextLight dark:text-secondaryTextDark">
-											Software Engineer Internship (Jan 2021 - June 2021)
+											PT. Promedia Citra Informatindo (Jan 2021 - June 2021)
 										</h5>
 										<div className="text-secondaryText">
 											<p>
