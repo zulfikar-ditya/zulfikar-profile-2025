@@ -132,7 +132,7 @@ export default function desktop() {
 				<main className="w-full">
 					<div className="bg-backgroundLight dark:bg-backgroundDarken rounded-lg shadow-lg p-4">
 						<section id="about">
-							<h1 className="text-primary dark:text-primary">About Me</h1>
+							<h2 className="text-primary dark:text-primary">About Me</h2>
 							<p className="text-secondaryText">
 								I am a passionate Backend Developer with expertise in Backend
 								Development and a strong background in building efficient,
@@ -149,7 +149,7 @@ export default function desktop() {
 						</section>
 
 						<section id="experiences" className="mt-8">
-							<h1 className="text-primary dark:text-primary">Experiences</h1>
+							<h2 className="text-primary dark:text-primary">Experiences</h2>
 							<div className="flex items-center gap-4 mb-4">
 								<div className="flex items-center flex-col gap-2 w-full">
 									<div className="mt-4 w-full">
@@ -441,7 +441,7 @@ export default function desktop() {
 						</section>
 
 						<section id="education" className="mt-8">
-							<h1 className="text-primary dark:text-primary">Education</h1>
+							<h2 className="text-primary dark:text-primary">Education</h2>
 							<div className="flex items-center gap-4 mb-4">
 								<div className="flex items-center flex-col gap-2 w-full">
 									<div className="mt-4 w-full">
@@ -461,7 +461,7 @@ export default function desktop() {
 						</section>
 
 						<section id="award" className="mt-8">
-							<h1 className="text-primary dark:text-primary">Award</h1>
+							<h2 className="text-primary dark:text-primary">Award</h2>
 							<div className="flex items-center gap-4 mb-4">
 								<div className="flex items-center flex-col gap-2 w-full">
 									<div className="mt-4 w-full">
