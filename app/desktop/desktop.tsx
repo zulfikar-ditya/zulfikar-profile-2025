@@ -23,8 +23,7 @@ export default function desktop() {
 							<div className="text-center">
 								<h1>Zulfikar Ditya</h1>
 								<p className="text-secondaryText">
-									A Backend Maestro, Crafting Elegant and Efficient Backend
-									Services
+									Backend Developer | 5+ Years of Experience in Laravel, NestJS & API Architecture
 								</p>
 							</div>
 						</div>
@@ -79,7 +78,7 @@ export default function desktop() {
 									</p>
 									<p className="text-secondaryText">
 										<a
-											href="https://drive.google.com/file/d/1Z-vdKfU7ursp74LSWnjW60NTkTm9gy42/view?usp=sharing"
+											href="https://drive.google.com/file/d/1kkHIHo48Lvj6Ug832puMIMHCx4JTTnRD/view?usp=sharing"
 											target="_blank"
 											rel="noopener noreferrer"
 											className="flex items-center hover:text-primary dark:hover:text-primary"
@@ -134,17 +133,7 @@ export default function desktop() {
 						<section id="about">
 							<h2 className="text-primary dark:text-primary">About Me</h2>
 							<p className="text-secondaryText">
-								I am a passionate Backend Developer with expertise in Backend
-								Development and a strong background in building efficient,
-								secure, and scalable web applications. Skilled in designing
-								robust APIs, managing complex databases, and optimizing
-								application performance, I thrive in collaborative environments.
-								My focus is on delivering high-quality, well-tested code while
-								embracing new technologies to drive innovation. With excellent
-								problem-solving and communication skills, I bridge technical and
-								non-technical gaps to deliver seamless web solutions. I&apos;m eager
-								to contribute my skills to a dynamic team and help create
-								exceptional web experiences.
+								Seasoned Backend Developer with 5 years of experience designing secure, high-performance web applications and RESTful APIs. Specialized in Laravel, NestJS, and database optimization with proven expertise in third-party integrations and ERP system architecture. Combines technical excellence with strong collaboration skills to deliver scalable solutions that drive business value. Committed to clean, maintainable code and continuous improvement.
 							</p>
 						</section>
 
