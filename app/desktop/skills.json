@@ -1,0 +1,20 @@
+{
+	"languages": ["PHP", "JavaScript", "TypeScript", "Golang"],
+	"frameworks": ["Laravel", "NestJS", "Express", "ASP.NET", "Mendix"],
+	"databases": ["MySQL", "PostgreSQL", "MongoDB"],
+	"frontend": [
+		"React",
+		"Next.js",
+		"TailwindCSS",
+		"Bootstrap",
+		"jQuery",
+		"Alpine.js"
+	],
+	"devOps": ["Git", "GitHub", "GitLab", "CI/CD", "GitHub Actions", "Docker"],
+	"methodologies": [
+		"Agile",
+		"MVC Architecture",
+		"API Design",
+		"Database Normalization"
+	]
+}
