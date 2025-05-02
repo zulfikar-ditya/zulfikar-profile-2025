@@ -15,11 +15,6 @@ export default function desktop() {
 	const experiences = experiencesData;
 	const skills = skillsData;
 
-	// Function to capitalize first letter of each word
-	const capitalizeFirstLetter = (string: string) => {
-		return string.charAt(0).toUpperCase() + string.slice(1);
-	};
-
 	return (
 		<div className="container mx-auto p-4">
 			<div className="flex flex-wrap md:flex-nowrap gap-4">
@@ -123,7 +118,7 @@ export default function desktop() {
 									{Object.entries(skills).map(([category, techs]) =>
 										(techs as string[]).map((tech, index) => (
 											<span
-												key={index}
+												key={`${category}-${index}`}
 												className="bg-primary/10 text-primary px-3 py-1 rounded-full text-sm hover:bg-primary hover:text-white transition-colors duration-200 text-center text-ellipsis text-nowrap"
 											>
 												{tech}
