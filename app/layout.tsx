@@ -24,6 +24,22 @@ export default function RootLayout({
 }>) {
 	return (
 		<html lang="en">
+			<script
+				dangerouslySetInnerHTML={{
+					__html: `
+            (function() {
+              try {
+                var theme = localStorage.getItem('theme');
+                if (theme === 'dark' || (!theme && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+                  document.documentElement.classList.add('dark');
+                } else {
+                  document.documentElement.classList.remove('dark');
+                }
+              } catch (_) {}
+            })();
+          `,
+				}}
+			/>
 			<meta
 				content="SjlrZnBfF0NOO11lm4GExHQRf9UM87k4de9teOQxKKc"
 				name="google-site-verification"
